@@ -1,605 +1,706 @@
 [{
 	"album": "saw85",
+	"year": 1992,
 	"title": "Xtal",
 	"length": 292,
 	"db": -12.79,
 	"bpm": 115
 }, {
 	"album": "saw85",
+	"year": 1992,
 	"title": "Tha",
 	"length": 546,
 	"db": -16.02,
 	"bpm": 135
 }, {
 	"album": "saw85",
+	"year": 1992,
 	"title": "Pulsewidth",
 	"length": 228,
 	"db": -13.97,
 	"bpm": 119
 }, {
 	"album": "saw85",
+	"year": 1992,
 	"title": "Ageispolis",
 	"length": 323,
 	"db": -13.16,
 	"bpm": 102
 }, {
 	"album": "saw85",
+	"year": 1992,
 	"title": "i",
 	"length": 77,
 	"db": -22.3,
 	"bpm": 0
 }, {
 	"album": "saw85",
+	"year": 1992,
 	"title": "Green Calx",
 	"length": 365,
 	"db": -14.63,
 	"bpm": 117
 }, {
 	"album": "saw85",
+	"year": 1992,
 	"title": "Heliosphan",
 	"length": 293,
 	"db": -14.35,
 	"bpm": 131
 }, {
 	"album": "saw85",
+	"year": 1992,
 	"title": "We Are The Music Makers",
 	"length": 464,
 	"db": -13.12,
 	"bpm": 103
 }, {
 	"album": "saw85",
+	"year": 1992,
 	"title": "Schottkey 7th Path",
 	"length": 308,
 	"db": -16.53,
 	"bpm": 135
 }, {
 	"album": "saw85",
+	"year": 1992,
 	"title": "Ptolemy",
 	"length": 434,
 	"db": -16.03,
 	"bpm": 117
 }, {
 	"album": "saw85",
+	"year": 1992,
 	"title": "Hedphelym",
 	"length": 364,
 	"db": -15.58,
 	"bpm": 125
 }, {
 	"album": "saw85",
+	"year": 1992,
 	"title": "Delphium",
 	"length": 329,
 	"db": -14.45,
 	"bpm": 119
 }, {
 	"album": "saw85",
+	"year": 1992,
 	"title": "Actium",
 	"length": 456,
 	"db": -14.63,
 	"bpm": 126
 }, {
 	"album": "saw2",
+	"year": 1994,
 	"title": "#1",
 	"length": 448,
 	"db": -15.26,
 	"bpm": 103
 }, {
 	"album": "saw2",
+	"year": 1994,
 	"title": "#2",
 	"length": 394,
 	"db": -17.71,
 	"bpm": 63
 }, {
 	"album": "saw2",
+	"year": 1994,
 	"title": "#3",
 	"length": 464,
 	"db": -16.57,
 	"bpm": 0
 }, {
 	"album": "saw2",
+	"year": 1994,
 	"title": "#4",
 	"length": 280,
 	"db": -16.69,
 	"bpm": 0
 }, {
 	"album": "saw2",
+	"year": 1994,
 	"title": "#5",
 	"length": 535,
 	"db": -23.1,
 	"bpm": 70
 }, {
 	"album": "saw2",
+	"year": 1994,
 	"title": "#6",
 	"length": 211,
 	"db": -19.67,
 	"bpm": 101
 }, {
 	"album": "saw2",
+	"year": 1994,
 	"title": "#7",
 	"length": 532,
 	"db": -19.61,
 	"bpm": 109
 }, {
 	"album": "saw2",
+	"year": 1994,
 	"title": "#8",
 	"length": 309,
 	"db": -17.4,
 	"bpm": 113
 }, {
 	"album": "saw2",
+	"year": 1994,
 	"title": "#9",
 	"length": 415,
 	"db": -16.54,
 	"bpm": 83
 }, {
 	"album": "saw2",
+	"year": 1994,
 	"title": "#10",
 	"length": 598,
 	"db": -20.74,
 	"bpm": 0
 }, {
 	"album": "saw2",
+	"year": 1994,
 	"title": "#11",
 	"length": 438,
 	"db": -20.95,
 	"bpm": 119
 }, {
 	"album": "saw2",
+	"year": 1994,
 	"title": "#12",
 	"length": 160,
 	"db": -16.94,
 	"bpm": 0
 }, {
 	"album": "saw2",
+	"year": 1994,
 	"title": "#13",
 	"length": 440,
 	"db": -19.36,
 	"bpm": 135
 }, {
 	"album": "saw2",
+	"year": 1994,
 	"title": "#14",
 	"length": 481,
 	"db": -16.39,
 	"bpm": 0
 }, {
 	"album": "saw2",
+	"year": 1994,
 	"title": "#15",
 	"length": 334,
 	"db": -17.09,
 	"bpm": 95
 }, {
 	"album": "saw2",
+	"year": 1994,
 	"title": "#16",
 	"length": 286,
 	"db": -22.38,
 	"bpm": 0
 }, {
 	"album": "saw2",
+	"year": 1994,
 	"title": "#17",
 	"length": 125,
 	"db": -20.84,
 	"bpm": 121
 }, {
 	"album": "saw2",
+	"year": 1994,
 	"title": "#18",
 	"length": 437,
 	"db": -17.91,
 	"bpm": 98
 }, {
 	"album": "saw2",
+	"year": 1994,
 	"title": "#19",
 	"length": 358,
 	"db": -18.12,
 	"bpm": 109
 }, {
 	"album": "saw2",
+	"year": 1994,
 	"title": "#20",
 	"length": 255,
 	"db": -19.59,
 	"bpm": 0
 }, {
 	"album": "saw2",
+	"year": 1994,
 	"title": "#21",
 	"length": 430,
 	"db": -18.1,
 	"bpm": 0
 }, {
 	"album": "saw2",
+	"year": 1994,
 	"title": "#22",
 	"length": 450,
 	"db": -19.03,
 	"bpm": 0
 }, {
 	"album": "saw2",
+	"year": 1994,
 	"title": "#23",
 	"length": 687,
 	"db": -18.32,
 	"bpm": 83
 }, {
 	"album": "saw2",
+	"year": 1994,
 	"title": "#24",
 	"length": 340,
 	"db": -21.03,
 	"bpm": 0
 }, {
 	"album": "icbyd",
+	"year": 1995,
 	"title": "Acrid Avid Jam Shred",
 	"length": 459,
 	"db": -15.1,
 	"bpm": 81
 }, {
 	"album": "icbyd",
+	"year": 1995,
 	"title": "The Waxen Pith",
 	"length": 290,
 	"db": -13.58,
 	"bpm": 128
 }, {
 	"album": "icbyd",
+	"year": 1995,
 	"title": "Wax The Nip",
 	"length": 259,
 	"db": -11.48,
 	"bpm": 153
 }, {
 	"album": "icbyd",
+	"year": 1995,
 	"title": "Icct Hedral (Edit)",
 	"length": 367,
 	"db": -13.09,
 	"bpm": 71
 }, {
 	"album": "icbyd",
+	"year": 1995,
 	"title": "Ventolin (Video Version)",
 	"length": 269,
 	"db": -12.05,
 	"bpm": 73
 }, {
 	"album": "icbyd",
+	"year": 1995,
 	"title": "Come On You Slags!",
 	"length": 345,
 	"db": -13.67,
 	"bpm": 153
 }, {
 	"album": "icbyd",
+	"year": 1995,
 	"title": "Start As You Mean To Go On",
 	"length": 365,
 	"db": -10.89,
 	"bpm": 151
 }, {
 	"album": "icbyd",
+	"year": 1995,
 	"title": "Wet Tip Hen Ax",
 	"length": 317,
 	"db": -13.29,
 	"bpm": 130
 }, {
 	"album": "icbyd",
+	"year": 1995,
 	"title": "Mookid",
 	"length": 231,
 	"db": -14.26,
 	"bpm": 120
 }, {
 	"album": "icbyd",
+	"year": 1995,
 	"title": "Alberto Balsalm",
 	"length": 311,
 	"db": -17.27,
 	"bpm": 94
 }, {
 	"album": "icbyd",
+	"year": 1995,
 	"title": "Cow Cud Is A Twin",
 	"length": 334,
 	"db": -13.13,
 	"bpm": 79
 }, {
 	"album": "icbyd",
+	"year": 1995,
 	"title": "Next Heap With",
 	"length": 285,
 	"db": -15.99,
 	"bpm": 117
 }, {
 	"album": "rdj",
+	"year": 1996,
 	"title": 4,
 	"length": 216,
 	"db": -12.43,
 	"bpm": 167
 }, {
 	"album": "rdj",
+	"year": 1996,
 	"title": "Cornish Acid",
 	"length": 135,
 	"db": -13.83,
 	"bpm": 140
 }, {
 	"album": "rdj",
+	"year": 1996,
 	"title": "Peek 824545201",
 	"length": 185,
 	"db": -14.82,
 	"bpm": 170
 }, {
 	"album": "rdj",
+	"year": 1996,
 	"title": "Fingerbib",
 	"length": 229,
 	"db": -12.65,
 	"bpm": 132
 }, {
 	"album": "rdj",
+	"year": 1996,
 	"title": "Carn Marth",
 	"length": 153,
 	"db": -9.45,
 	"bpm": 167
 }, {
 	"album": "rdj",
+	"year": 1996,
 	"title": "To Cure A Weakling Child",
 	"length": 244,
 	"db": -12.08,
 	"bpm": 163
 }, {
 	"album": "rdj",
+	"year": 1996,
 	"title": "Goon Gumpas",
 	"length": 123,
 	"db": -16.78,
 	"bpm": 67
 }, {
 	"album": "rdj",
+	"year": 1996,
 	"title": "Yellow Calx",
 	"length": 183,
 	"db": -13.82,
 	"bpm": 167
 }, {
 	"album": "rdj",
+	"year": 1996,
 	"title": "Girl/Boy Song",
 	"length": 288,
 	"db": -11,
 	"bpm": 169
 }, {
 	"album": "rdj",
+	"year": 1996,
 	"title": "Logan Rock Witch",
 	"length": 212,
 	"db": -14.89,
 	"bpm": 132
 }, {
 	"album": "drukqs",
+	"year": 1996,
 	"title": "Jynweythek",
 	"length": 143,
 	"db": -22.35,
 	"bpm": 60
 }, {
 	"album": "drukqs",
+	"year": 2001,
 	"title": "Vordhosbn",
 	"length": 291,
 	"db": -13.19,
 	"bpm": 170
 }, {
 	"album": "drukqs",
+	"year": 2001,
 	"title": "Kladfvgbung Micshk",
 	"length": 127,
 	"db": -16.13,
 	"bpm": 65
 }, {
 	"album": "drukqs",
+	"year": 2001,
 	"title": "Omgyjya-Switch7",
 	"length": 293,
 	"db": -12.02,
 	"bpm": 190
 }, {
 	"album": "drukqs",
+	"year": 2001,
 	"title": "Strotha Tynhe",
 	"length": 132,
 	"db": -24.11,
 	"bpm": 57
 }, {
 	"album": "drukqs",
+	"year": 2001,
 	"title": "Gwely Mernans",
 	"length": 308,
 	"db": -10.63,
 	"bpm": 160
 }, {
 	"album": "drukqs",
+	"year": 2001,
 	"title": "Bbydhyonchord",
 	"length": 153,
 	"db": -14.91,
 	"bpm": 123
 }, {
 	"album": "drukqs",
+	"year": 2001,
 	"title": "Cock/Ver10",
 	"length": 318,
 	"db": -13.26,
 	"bpm": 170
 }, {
 	"album": "drukqs",
+	"year": 2001,
 	"title": "Avril 14th",
 	"length": 126,
 	"db": -23.81,
 	"bpm": 79
 }, {
 	"album": "drukqs",
+	"year": 2001,
 	"title": "Mt Saint Michel + Saint Michaels Mount",
 	"length": 490,
 	"db": -14.57,
 	"bpm": 200
 }, {
 	"album": "drukqs",
+	"year": 2001,
 	"title": "Gwarek2",
 	"length": 407,
 	"db": -17.85,
 	"bpm": 0
 }, {
 	"album": "drukqs",
+	"year": 2001,
 	"title": "Orban Eq Trx4",
 	"length": 95,
 	"db": -12.98,
 	"bpm": 90
 }, {
 	"album": "drukqs",
+	"year": 2001,
 	"title": "Aussois",
 	"length": 13,
 	"db": -28.93,
 	"bpm": 0
 }, {
 	"album": "drukqs",
+	"year": 2001,
 	"title": "Hy A Scullyas Lyf A Dhagrow",
 	"length": 135,
 	"db": -23.63,
 	"bpm": 65
 }, {
 	"album": "drukqs",
+	"year": 2001,
 	"title": "Kesson Dalef",
 	"length": 80,
 	"db": -21.1,
 	"bpm": 85
 }, {
 	"album": "drukqs",
+	"year": 2001,
 	"title": "54 Cymru Beats",
 	"length": 367,
 	"db": -13.59,
 	"bpm": 168
 }, {
 	"album": "drukqs",
+	"year": 2001,
 	"title": "Btoum-Roumada",
 	"length": 118,
 	"db": -20.23,
 	"bpm": 0
 }, {
 	"album": "drukqs",
+	"year": 2001,
 	"title": "Lornaderek",
 	"length": 31,
 	"db": -26.28,
 	"bpm": 0
 }, {
 	"album": "drukqs",
+	"year": 2001,
 	"title": "QKThr",
 	"length": 87,
 	"db": -22.07,
 	"bpm": 0
 }, {
 	"album": "drukqs",
+	"year": 2001,
 	"title": "Meltphace 6",
 	"length": 384,
 	"db": -13.86,
 	"bpm": 154
 }, {
 	"album": "drukqs",
+	"year": 2001,
 	"title": "Bit 4",
 	"length": 25,
 	"db": -19.47,
 	"bpm": 0
 }, {
 	"album": "drukqs",
+	"year": 2001,
 	"title": "Prep Gwarlek 3b",
 	"length": 79,
 	"db": -16.12,
 	"bpm": 130
 }, {
 	"album": "drukqs",
+	"year": 2001,
 	"title": "Father",
 	"length": 57,
 	"db": -21.81,
 	"bpm": 63
 }, {
 	"album": "drukqs",
+	"year": 2001,
 	"title": "Taking Control",
 	"length": 434,
 	"db": -15.69,
 	"bpm": 150
 }, {
 	"album": "drukqs",
+	"year": 2001,
 	"title": "Petiatil Cx Htdui",
 	"length": 131,
 	"db": -22.43,
 	"bpm": 55
 }, {
 	"album": "drukqs",
+	"year": 2001,
 	"title": "Ruglen Holon",
 	"length": 109,
 	"db": -28.12,
 	"bpm": 60
 }, {
 	"album": "drukqs",
+	"year": 2001,
 	"title": "Afx237 V.7",
 	"length": 263,
 	"db": -15.85,
 	"bpm": 168
 }, {
 	"album": "drukqs",
+	"year": 2001,
 	"title": "Ziggomatic 17",
 	"length": 515,
 	"db": -12.82,
 	"bpm": 180
 }, {
 	"album": "drukqs",
+	"year": 2001,
 	"title": "Beskhu3epnm",
 	"length": 130,
 	"db": -22.7,
 	"bpm": 67
 }, {
 	"album": "drukqs",
+	"year": 2001,
 	"title": "Nanou 2",
 	"length": 204,
 	"db": -27.33,
 	"bpm": 70
 }, {
 	"album": "syro",
+	"year": 2014,
 	"title": "minipops 67 [120.2][source field mix]",
 	"length": 288,
 	"db": -10.36,
 	"bpm": 120
 }, {
 	"album": "syro",
+	"year": 2014,
 	"title": "XMAS_EVET10 [120][thanaton3 mix]",
 	"length": 631,
 	"db": -9.62,
 	"bpm": 120
 }, {
 	"album": "syro",
+	"year": 2014,
 	"title": "produk 29 [101]",
 	"length": 304,
 	"db": -9.96,
 	"bpm": 101
 }, {
 	"album": "syro",
+	"year": 2014,
 	"title": "4 bit 9d api+e+6 [126.26]",
 	"length": 269,
 	"db": -10.2,
 	"bpm": 126
 }, {
 	"album": "syro",
+	"year": 2014,
 	"title": "180db_ [130]",
 	"length": 192,
 	"db": -8.98,
 	"bpm": 130
 }, {
 	"album": "syro",
+	"year": 2014,
 	"title": "CIRCLONT6A [141.98][syrobonkus mix]",
 	"length": 360,
 	"db": -7.56,
 	"bpm": 142
 }, {
 	"album": "syro",
+	"year": 2014,
 	"title": "fz pseudotimestretch+e+3 [138.85]",
 	"length": 59,
 	"db": -21.58,
 	"bpm": 139
 }, {
 	"album": "syro",
+	"year": 2014,
 	"title": "CIRCLONT14 [152.97][shrymoming mix]",
 	"length": 441,
 	"db": -9.65,
 	"bpm": 153
 }, {
 	"album": "syro",
+	"year": 2014,
 	"title": "syro u473t8+e [141.98][piezoluminescence mix]",
 	"length": 393,
 	"db": -9.66,
 	"bpm": 142
 }, {
 	"album": "syro",
+	"year": 2014,
 	"title": "PAPAT4 [155][pineal mix]",
 	"length": 259,
 	"db": -10.61,
 	"bpm": 155
 }, {
 	"album": "syro",
+	"year": 2014,
 	"title": "s950tx16wasr10 [163.97][earth portal mix]",
 	"length": 362,
 	"db": -9.4,
 	"bpm": 164
 }, {
 	"album": "syro",
+	"year": 2014,
 	"title": "aisatsana [102]",
 	"length": 322,
 	"db": -22.91,
